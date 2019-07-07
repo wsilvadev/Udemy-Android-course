@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Festa</string>
+    <string name="sim_n_o_n_o">Sim/Não/Não Confirmado</string>
+    <string name="_01_01_2019">01/01/2019</string>
+    <string name="dias_restantes_para_o_fim_do_anp">Dias restantes para o fim do ano</string>
+    <string name="_325_dias">325 dias</string>
+    <string name="voc_vai_participar">Você vai participar?</string>
+    <string name="dias">dias</string>
+    <string name="sim">Sim</string>s
+    <string name="nao">Não</string>
+    <string name="nao_confirmado">Não Confirmado</string>
+
+
+</resources>
